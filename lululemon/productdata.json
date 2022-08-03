@@ -1,0 +1,2161 @@
+{
+    "links": {
+        "last": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=20&Nrpp=10",
+        "next": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=10&Nrpp=10",
+        "self": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=0&Nrpp=10"
+    },
+    "meta": {},
+    "data": {
+        "id": "cdp",
+        "type": "ProductCategoryDetailsPage",
+        "name": "Product Details Page",
+        "h1-title-tag": "",
+        "isFusionQuery": false,
+        "isBopisEnabled": true,
+        "attributes": {
+            "colorAttributes": {
+                "46594": {
+                    "careAndContent": {
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent",
+                        "sections": [
+                            {
+                                "media": [],
+                                "title": "Materials",
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "items": [
+                                                "81% Nylon",
+                                                "19% Lycra® elastane"
+                                            ],
+                                            "title": "Body"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "media": [],
+                                "title": "Care",
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Wash with like colours",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-machine-wash-cold",
+                                        "text": "Machine wash cold",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-line-dry-hang-to-dry",
+                                        "text": "Line dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "tier": "1",
+            "product-recommendations": [
+                {
+                    "parent-category-display-name": "Pants",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_036763_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BEJS_036763_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BPDS_0002_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BPDS_0002_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BY3S_047184_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BY3S_047184_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYXS_048615_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYXS_048615_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYXS_048616_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYXS_048616_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYYS_037362_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BYYS_037362_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CFFS_050026_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CFFS_050026_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CJ5S_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CJ5S_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CK7S_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CK7S_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CQVS_043990_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CQVS_043990_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CQVS_046594_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CQVS_046594_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_030210_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_030210_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_047749_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CT3S_047749_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTAS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_028948_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_028948_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_045720_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_045720_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_047797_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTBS_047797_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTCS_0002_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTCS_0002_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTDS_024921_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTDS_024921_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CZOS_1966_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CZOS_1966_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_030210_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_030210_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_036763_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DEPS_036763_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LGQS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LGQS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LIFS_028948_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LIFS_028948_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LJFS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5LJFS_026083_2"
+                    ],
+                    "display-name": "lululemon Align™ Pant 25\"",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/35551?$swatch$",
+                            "name": "Camo"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/46171?$swatch$",
+                            "name": "Neon"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                            "name": "Printed"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$",
+                            "name": "blue"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26950?$swatch$",
+                            "name": "burgundy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                            "name": "green"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                            "name": "grey"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/32664?$swatch$",
+                            "name": "navy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26083?$swatch$",
+                            "name": "olive"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/pink_swatch?$swatch$",
+                            "name": "pink"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/purple_swatch?$swatch$",
+                            "name": "purple"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/red_swatch?$swatch$",
+                            "name": "red"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/44477?$swatch$",
+                            "name": "tie dye"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/white_swatch?$swatch$",
+                            "name": "white"
+                        }
+                    ],
+                    "all-available-sizes": [
+                        "0",
+                        "10",
+                        "12",
+                        "14",
+                        "16",
+                        "18",
+                        "2",
+                        "20",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "product-category-hierarchy": "^women^^uswomen|^Pants^^uswwearit5",
+                    "currency-code": "USD",
+                    "title": "Align Pant 25\" | Women's Yoga Pants",
+                    "pdp-url": "/p/women-pants/Align-Pant-2/_/prod2020012",
+                    "linked-products": [
+                        ""
+                    ],
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047797",
+                            "color-name": "Rosemary Green",
+                            "color-group": "green",
+                            "style-id-01": "LW5CTBS",
+                            "style-id": "LW5CTBS-047797",
+                            "sku": "us_127677236",
+                            "size": "0",
+                            "sku-style-order-id": "9980",
+                            "color-id": "47797"
+                        },
+                        {
+                            "style-id-02": "047749",
+                            "color-name": "Blue Borealis",
+                            "color-group": "blue",
+                            "style-id-01": "LW5CT3S",
+                            "style-id": "LW5CT3S-047749",
+                            "sku": "us_127677198",
+                            "size": "0",
+                            "sku-style-order-id": "9981",
+                            "color-id": "47749"
+                        },
+                        {
+                            "style-id-02": "046594",
+                            "color-name": "Diamond Dye Asphalt Grey True Navy",
+                            "color-group": "grey",
+                            "style-id-01": "LW5CQVS",
+                            "style-id": "LW5CQVS-046594",
+                            "sku": "us_122826051",
+                            "size": "0",
+                            "sku-style-order-id": "9982",
+                            "color-id": "46594"
+                        },
+                        {
+                            "style-id-02": "043990",
+                            "color-name": "Diamond Dye Pitch Grey Graphite Grey",
+                            "color-group": "Printed^grey^tie dye",
+                            "style-id-01": "LW5CQVS",
+                            "style-id": "LW5CQVS-043990",
+                            "sku": "us_114804959",
+                            "size": "0",
+                            "sku-style-order-id": "9983",
+                            "color-id": "43990"
+                        },
+                        {
+                            "style-id-02": "048615",
+                            "color-name": "Water Blossom Multi",
+                            "color-group": "Printed",
+                            "style-id-01": "LW5BYXS",
+                            "style-id": "LW5BYXS-048615",
+                            "sku": "us_127676408",
+                            "size": "0",
+                            "sku-style-order-id": "9984",
+                            "color-id": "48615"
+                        },
+                        {
+                            "style-id-02": "050026",
+                            "color-name": "Le Tigre Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo",
+                            "style-id-01": "LW5CFFS",
+                            "style-id": "LW5CFFS-050026",
+                            "sku": "us_127600098",
+                            "size": "0",
+                            "sku-style-order-id": "9985",
+                            "color-id": "50026"
+                        },
+                        {
+                            "style-id-02": "037362",
+                            "color-name": "Speckle Emboss Black",
+                            "color-group": "Printed^black",
+                            "style-id-01": "LW5BYYS",
+                            "style-id": "LW5BYYS-037362",
+                            "sku": "us_127675448",
+                            "size": "0",
+                            "sku-style-order-id": "9986",
+                            "color-id": "37362"
+                        },
+                        {
+                            "style-id-02": "048616",
+                            "color-name": "Inflorescence Multi",
+                            "color-group": "Printed^pink",
+                            "style-id-01": "LW5BYXS",
+                            "style-id": "LW5BYXS-048616",
+                            "sku": "us_127676658",
+                            "size": "2",
+                            "sku-style-order-id": "9987",
+                            "color-id": "48616"
+                        },
+                        {
+                            "style-id-02": "045720",
+                            "color-name": "Violet Verbena",
+                            "color-group": "purple",
+                            "style-id-01": "LW5CTBS",
+                            "style-id": "LW5CTBS-045720",
+                            "sku": "us_124876049",
+                            "size": "10",
+                            "sku-style-order-id": "9988",
+                            "color-id": "45720"
+                        },
+                        {
+                            "style-id-02": "1966",
+                            "color-name": "Heathered Black",
+                            "color-group": "grey",
+                            "style-id-01": "LW5CZOS",
+                            "style-id": "LW5CZOS-1966",
+                            "sku": "us_123025447",
+                            "size": "10",
+                            "sku-style-order-id": "9989",
+                            "color-id": "1966"
+                        },
+                        {
+                            "style-id-02": "0002",
+                            "color-name": "White",
+                            "color-group": "white",
+                            "style-id-01": "LW5CTCS",
+                            "style-id": "LW5CTCS-0002",
+                            "sku": "us_117376874",
+                            "size": "10",
+                            "sku-style-order-id": "9990",
+                            "color-id": "0002"
+                        },
+                        {
+                            "style-id-02": "036763",
+                            "color-name": "Grey Sage",
+                            "color-group": "grey",
+                            "style-id-01": "LW5DEPS",
+                            "style-id": "LW5DEPS-036763",
+                            "sku": "us_123025506",
+                            "size": "12",
+                            "sku-style-order-id": "9991",
+                            "color-id": "36763"
+                        },
+                        {
+                            "style-id-02": "047184",
+                            "color-name": "Heritage 365 Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo^black",
+                            "style-id-01": "LW5BY3S",
+                            "style-id": "LW5BY3S-047184",
+                            "sku": "us_122750964",
+                            "size": "16",
+                            "sku-style-order-id": "9992",
+                            "color-id": "47184"
+                        },
+                        {
+                            "style-id-02": "024921",
+                            "color-name": "wee are from space nimbus battleship",
+                            "color-group": "white",
+                            "style-id-01": "LW5CTDS",
+                            "style-id": "LW5CTDS-024921",
+                            "sku": "us_122750739",
+                            "size": "12",
+                            "sku-style-order-id": "9993",
+                            "color-id": "24921"
+                        },
+                        {
+                            "style-id-02": "028948",
+                            "color-name": "dark red",
+                            "color-group": "Neon^red",
+                            "style-id-01": "LW5LIFS",
+                            "style-id": "LW5LIFS-028948",
+                            "sku": "us_113225633",
+                            "size": "10",
+                            "sku-style-order-id": "9994",
+                            "color-id": "28948"
+                        },
+                        {
+                            "style-id-02": "031382",
+                            "color-name": "True Navy",
+                            "color-group": "navy^blue",
+                            "style-id-01": "LW5CT3S",
+                            "style-id": "LW5CT3S-031382",
+                            "sku": "us_127676368",
+                            "size": "8",
+                            "sku-style-order-id": "9995",
+                            "color-id": "31382"
+                        },
+                        {
+                            "style-id-02": "026950",
+                            "color-name": "cassis",
+                            "color-group": "burgundy^red",
+                            "style-id-01": "LW5CT3S",
+                            "style-id": "LW5CT3S-026950",
+                            "sku": "us_127675743",
+                            "size": "20",
+                            "sku-style-order-id": "9996",
+                            "color-id": "26950"
+                        },
+                        {
+                            "style-id-02": "030210",
+                            "color-name": "graphite grey",
+                            "color-group": "grey",
+                            "style-id-01": "LW5CT3S",
+                            "style-id": "LW5CT3S-030210",
+                            "sku": "us_127675921",
+                            "size": "0",
+                            "sku-style-order-id": "9997",
+                            "color-id": "30210"
+                        },
+                        {
+                            "style-id-02": "026083",
+                            "color-name": "dark olive",
+                            "color-group": "green^olive",
+                            "style-id-01": "LW5CT3S",
+                            "style-id": "LW5CT3S-026083",
+                            "sku": "us_127525706",
+                            "size": "0",
+                            "sku-style-order-id": "9998",
+                            "color-id": "26083"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-name": "Black",
+                            "color-group": "black",
+                            "style-id-01": "LW5LGQS",
+                            "style-id": "LW5LGQS-0001",
+                            "sku": "us_3673460",
+                            "size": "2",
+                            "sku-style-order-id": "9999",
+                            "color-id": "0001"
+                        }
+                    ],
+                    "sku-style-number": [
+                        "LW5BEJS-0001",
+                        "LW5BEJS-026083",
+                        "LW5BEJS-031382",
+                        "LW5BEJS-036763",
+                        "LW5BPDS-0002",
+                        "LW5BY3S-047184",
+                        "LW5BYXS-048615",
+                        "LW5BYXS-048616",
+                        "LW5BYYS-037362",
+                        "LW5CFFS-050026",
+                        "LW5CJ5S-0001",
+                        "LW5CK7S-0001",
+                        "LW5CQVS-043990",
+                        "LW5CQVS-046594",
+                        "LW5CT3S-0001",
+                        "LW5CT3S-026083",
+                        "LW5CT3S-026950",
+                        "LW5CT3S-030210",
+                        "LW5CT3S-031382",
+                        "LW5CT3S-047749",
+                        "LW5CTAS-026083",
+                        "LW5CTAS-026950",
+                        "LW5CTAS-031382",
+                        "LW5CTBS-028948",
+                        "LW5CTBS-045720",
+                        "LW5CTBS-047797",
+                        "LW5CTCS-0002",
+                        "LW5CTDS-024921",
+                        "LW5CZOS-1966",
+                        "LW5DEPS-0001",
+                        "LW5DEPS-026083",
+                        "LW5DEPS-026950",
+                        "LW5DEPS-030210",
+                        "LW5DEPS-031382",
+                        "LW5DEPS-036763",
+                        "LW5LGQS-0001",
+                        "LW5LIFS-028948",
+                        "LW5LJFS-026083"
+                    ],
+                    "default-parent-category": "category:uswwearit5",
+                    "list-price": [
+                        "98.000000",
+                        "118.000000"
+                    ],
+                    "repository-id": "prod2020012",
+                    "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5AX1S_032797_Z",
+                    "product-on-sale": "0",
+                    "bazaar-voice-id": "Align_Pant_2",
+                    "product-coverage": "High Waisted",
+                    "image-scheme": "Old",
+                    "default-sku": "us_122750942",
+                    "display-name-with-br": "",
+                    "product-whats-new": "1",
+                    "unified-id": "Align-Pant-2",
+                    "product-silver": "0",
+                    "has-linked-products": "false",
+                    "parent-category-unified-id": "women-pants",
+                    "product-applicable-systems": "All"
+                },
+                {
+                    "parent-category-display-name": "Capris",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW6AMPS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AMPS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AMPS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AMPS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AS8S_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVHS_038292_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVHS_038292_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_047184_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_047184_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_047316_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_047316_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_048137_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVIS_048137_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVJS_046793_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AVJS_046793_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AXWS_048615_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AXWS_048615_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AXXS_037362_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AXXS_037362_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AZLS_050026_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6AZLS_050026_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BC7S_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BC7S_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BDTS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BDTS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_030210_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_030210_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGDS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGFS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGGS_038292_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGGS_038292_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGIS_024921_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGIS_024921_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BJHS_1966_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BJHS_1966_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BQUS_047824_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BQUS_047824_2"
+                    ],
+                    "display-name": "lululemon Align™ Crop *21\"",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/35551?$swatch$",
+                            "name": "Camo"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                            "name": "Printed"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$",
+                            "name": "blue"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26950?$swatch$",
+                            "name": "burgundy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                            "name": "green"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                            "name": "grey"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/32664?$swatch$",
+                            "name": "navy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26083?$swatch$",
+                            "name": "olive"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/red_swatch?$swatch$",
+                            "name": "red"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/white_swatch?$swatch$",
+                            "name": "white"
+                        }
+                    ],
+                    "all-available-sizes": [
+                        "0",
+                        "10",
+                        "12",
+                        "14",
+                        "16",
+                        "18",
+                        "2",
+                        "20",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "product-category-hierarchy": "^women^^uswomen|^Pants^^uswwearit5|^Capris^^uswwearit2",
+                    "currency-code": "USD",
+                    "title": "Align Crop *21\" | Women's Crops",
+                    "pdp-url": "/p/women-crops/Align-Crop-21/_/prod8780491",
+                    "linked-products": [
+                        ""
+                    ],
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047824",
+                            "color-name": "Water Drop",
+                            "color-group": "blue",
+                            "style-id-01": "LW6BQUS",
+                            "style-id": "LW6BQUS-047824",
+                            "sku": "us_127429583",
+                            "size": "0",
+                            "sku-style-order-id": "9984",
+                            "color-id": "47824"
+                        },
+                        {
+                            "style-id-02": "050026",
+                            "color-name": "Le Tigre Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo",
+                            "style-id-01": "LW6AZLS",
+                            "style-id": "LW6AZLS-050026",
+                            "sku": "us_127600512",
+                            "size": "0",
+                            "sku-style-order-id": "9985",
+                            "color-id": "50026"
+                        },
+                        {
+                            "style-id-02": "037362",
+                            "color-name": "Speckle Emboss Black",
+                            "color-group": "Printed^black",
+                            "style-id-01": "LW6AXXS",
+                            "style-id": "LW6AXXS-037362",
+                            "sku": "us_127451926",
+                            "size": "0",
+                            "sku-style-order-id": "9986",
+                            "color-id": "37362"
+                        },
+                        {
+                            "style-id-02": "048137",
+                            "color-name": "Wild Thing Camo Dark Olive Multi",
+                            "color-group": "Printed^green^olive^Camo",
+                            "style-id-01": "LW6AVIS",
+                            "style-id": "LW6AVIS-048137",
+                            "sku": "us_124900968",
+                            "size": "2",
+                            "sku-style-order-id": "9987",
+                            "color-id": "48137"
+                        },
+                        {
+                            "style-id-02": "026950",
+                            "color-name": "cassis",
+                            "color-group": "burgundy^red",
+                            "style-id-01": "LW6BGDS",
+                            "style-id": "LW6BGDS-026950",
+                            "sku": "us_125050817",
+                            "size": "2",
+                            "sku-style-order-id": "9988",
+                            "color-id": "26950"
+                        },
+                        {
+                            "style-id-02": "046793",
+                            "color-name": "Heritage 365 Camo Green Twill Multi",
+                            "color-group": "Printed^green^olive^Camo",
+                            "style-id-01": "LW6AVJS",
+                            "style-id": "LW6AVJS-046793",
+                            "sku": "us_124901046",
+                            "size": "0",
+                            "sku-style-order-id": "9989",
+                            "color-id": "46793"
+                        },
+                        {
+                            "style-id-02": "047316",
+                            "color-name": "Wild Thing Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo^black",
+                            "style-id-01": "LW6AVIS",
+                            "style-id": "LW6AVIS-047316",
+                            "sku": "us_123126065",
+                            "size": "2",
+                            "sku-style-order-id": "9990",
+                            "color-id": "47316"
+                        },
+                        {
+                            "style-id-02": "047184",
+                            "color-name": "Heritage 365 Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo^black",
+                            "style-id-01": "LW6AVIS",
+                            "style-id": "LW6AVIS-047184",
+                            "sku": "us_123125999",
+                            "size": "4",
+                            "sku-style-order-id": "9991",
+                            "color-id": "47184"
+                        },
+                        {
+                            "style-id-02": "1966",
+                            "color-name": "Heathered Black",
+                            "color-group": "grey",
+                            "style-id-01": "LW6BJHS",
+                            "style-id": "LW6BJHS-1966",
+                            "sku": "us_123176912",
+                            "size": "8",
+                            "sku-style-order-id": "9992",
+                            "color-id": "1966"
+                        },
+                        {
+                            "style-id-02": "024921",
+                            "color-name": "wee are from space nimbus battleship",
+                            "color-group": "white",
+                            "style-id-01": "LW6BGIS",
+                            "style-id": "LW6BGIS-024921",
+                            "sku": "us_123125998",
+                            "size": "10",
+                            "sku-style-order-id": "9993",
+                            "color-id": "24921"
+                        },
+                        {
+                            "style-id-02": "038292",
+                            "color-name": "Chambray",
+                            "color-group": "blue",
+                            "style-id-01": "LW6AVHS",
+                            "style-id": "LW6AVHS-038292",
+                            "sku": "us_107402332",
+                            "size": "10",
+                            "sku-style-order-id": "9994",
+                            "color-id": "38292"
+                        },
+                        {
+                            "style-id-02": "030210",
+                            "color-name": "graphite grey",
+                            "color-group": "grey",
+                            "style-id-01": "LW6BGDS",
+                            "style-id": "LW6BGDS-030210",
+                            "sku": "us_125050840",
+                            "size": "10",
+                            "sku-style-order-id": "9995",
+                            "color-id": "30210"
+                        },
+                        {
+                            "style-id-02": "026083",
+                            "color-name": "dark olive",
+                            "color-group": "green^olive",
+                            "style-id-01": "LW6AMPS",
+                            "style-id": "LW6AMPS-026083",
+                            "sku": "us_3778844",
+                            "size": "8",
+                            "sku-style-order-id": "9996",
+                            "color-id": "26083"
+                        },
+                        {
+                            "style-id-02": "031382",
+                            "color-name": "True Navy",
+                            "color-group": "navy^blue",
+                            "style-id-01": "LW6BGDS",
+                            "style-id": "LW6BGDS-031382",
+                            "sku": "us_125050857",
+                            "size": "16",
+                            "sku-style-order-id": "9997",
+                            "color-id": "31382"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-name": "Black",
+                            "color-group": "black",
+                            "style-id-01": "LW6BGDS",
+                            "style-id": "LW6BGDS-0001",
+                            "sku": "us_117400646",
+                            "size": "16",
+                            "sku-style-order-id": "9998",
+                            "color-id": "0001"
+                        },
+                        {
+                            "style-id-02": "048615",
+                            "color-name": "Water Blossom Multi",
+                            "color-group": "Printed",
+                            "style-id-01": "LW6AXWS",
+                            "style-id": "LW6AXWS-048615",
+                            "sku": "us_127451755",
+                            "size": "0",
+                            "sku-style-order-id": "9999",
+                            "color-id": "48615"
+                        }
+                    ],
+                    "sku-style-number": [
+                        "LW6AMPS-026083",
+                        "LW6AMPS-031382",
+                        "LW6AS8S-0001",
+                        "LW6AS8S-026083",
+                        "LW6AS8S-031382",
+                        "LW6AVHS-038292",
+                        "LW6AVIS-047184",
+                        "LW6AVIS-047316",
+                        "LW6AVIS-048137",
+                        "LW6AVJS-046793",
+                        "LW6AXWS-048615",
+                        "LW6AXXS-037362",
+                        "LW6AZLS-050026",
+                        "LW6BC7S-0001",
+                        "LW6BDTS-031382",
+                        "LW6BGDS-0001",
+                        "LW6BGDS-026950",
+                        "LW6BGDS-030210",
+                        "LW6BGDS-031382",
+                        "LW6BGFS-0001",
+                        "LW6BGFS-026083",
+                        "LW6BGFS-031382",
+                        "LW6BGGS-038292",
+                        "LW6BGIS-024921",
+                        "LW6BJHS-1966",
+                        "LW6BQUS-047824"
+                    ],
+                    "default-parent-category": "category:uswwearit2",
+                    "list-price": [
+                        "88.000000",
+                        "98.000000"
+                    ],
+                    "repository-id": "prod8780491",
+                    "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW6AMPS_0001_Z",
+                    "product-on-sale": "0",
+                    "bazaar-voice-id": "Align_Crop_21",
+                    "product-coverage": "High Waisted",
+                    "image-scheme": "Old",
+                    "default-sku": "us_127451755",
+                    "display-name-with-br": "",
+                    "product-whats-new": "1",
+                    "unified-id": "Align-Crop-21",
+                    "product-silver": "0",
+                    "has-linked-products": "false",
+                    "parent-category-unified-id": "women-crops",
+                    "product-applicable-systems": "All"
+                },
+                {
+                    "parent-category-display-name": "Leggings",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW5DNXS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DNXS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DR8S_047851_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DR8S_047851_2"
+                    ],
+                    "display-name": "Ribbed Contoured High-Rise Tight 28\" *Online Only",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/orange_swatch?$swatch$",
+                            "name": "orange"
+                        }
+                    ],
+                    "all-available-sizes": [
+                        "0",
+                        "10",
+                        "12",
+                        "14",
+                        "2",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "product-category-hierarchy": "^women^^uswomen|^Pants^^uswwearit5|^Leggings^^uswleggings",
+                    "currency-code": "USD",
+                    "title": "Ribbed Contoured High-Rise Tight 28\" | Women's Leggings",
+                    "pdp-url": "/p/womens-leggings/Ribbed-Contoured-HighRise-Tight-28/_/prod10370166",
+                    "linked-products": [
+                        ""
+                    ],
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047851",
+                            "color-name": "Malibu Peach",
+                            "color-group": "orange",
+                            "style-id-01": "LW5DR8S",
+                            "style-id": "LW5DR8S-047851",
+                            "sku": "us_131025123",
+                            "size": "0",
+                            "sku-style-order-id": "9998",
+                            "color-id": "47851"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-name": "Black",
+                            "color-group": "black",
+                            "style-id-01": "LW5DNXS",
+                            "style-id": "LW5DNXS-0001",
+                            "sku": "us_129400048",
+                            "size": "0",
+                            "sku-style-order-id": "9999",
+                            "color-id": "0001"
+                        }
+                    ],
+                    "sku-style-number": [
+                        "LW5DNXS-0001",
+                        "LW5DR8S-047851"
+                    ],
+                    "default-parent-category": "category:uswleggings",
+                    "list-price": [
+                        "118.000000"
+                    ],
+                    "repository-id": "prod10370166",
+                    "f5-bckimg-url": "",
+                    "product-on-sale": "0",
+                    "bazaar-voice-id": "Ribbed_Contoured_HighRise_Tight_28",
+                    "product-coverage": "High Waisted",
+                    "image-scheme": "Old",
+                    "default-sku": "us_129400048",
+                    "display-name-with-br": "",
+                    "product-whats-new": "1",
+                    "unified-id": "Ribbed-Contoured-HighRise-Tight-28",
+                    "product-silver": "0",
+                    "has-linked-products": "false",
+                    "parent-category-unified-id": "womens-leggings",
+                    "product-applicable-systems": "All"
+                },
+                {
+                    "parent-category-display-name": "Pants",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW5AYNS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5AYNS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5AYNS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5AYNS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BOBS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BSZS_045619_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BSZS_045619_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BSZS_047184_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BSZS_047184_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BZ0S_048615_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BZ0S_048615_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BZ0S_048616_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5BZ0S_048616_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5COUS_043990_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5COUS_043990_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5COUS_046594_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5COUS_046594_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTES_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTHS_038292_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTHS_038292_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTHS_047797_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTHS_047797_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTIS_0002_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CTIS_0002_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CZQS_1966_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5CZQS_1966_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DA5S_037362_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DA5S_037362_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_026083_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_026083_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW5DITS_031382_2"
+                    ],
+                    "display-name": "lululemon Align™ Pant 28\"",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/35551?$swatch$",
+                            "name": "Camo"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                            "name": "Printed"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$",
+                            "name": "blue"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26950?$swatch$",
+                            "name": "burgundy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                            "name": "green"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                            "name": "grey"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/32664?$swatch$",
+                            "name": "navy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26083?$swatch$",
+                            "name": "olive"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/pink_swatch?$swatch$",
+                            "name": "pink"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/red_swatch?$swatch$",
+                            "name": "red"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/44477?$swatch$",
+                            "name": "tie dye"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/white_swatch?$swatch$",
+                            "name": "white"
+                        }
+                    ],
+                    "all-available-sizes": [
+                        "0",
+                        "10",
+                        "12",
+                        "14",
+                        "16",
+                        "18",
+                        "2",
+                        "20",
+                        "4",
+                        "6",
+                        "8"
+                    ],
+                    "product-category-hierarchy": "^women^^uswomen|^Pants^^uswwearit5",
+                    "currency-code": "USD",
+                    "title": "Align Pant 28\" | Women's Pants",
+                    "pdp-url": "/p/women-pants/Align-Pant-Full-Length-28/_/prod8780551",
+                    "linked-products": [
+                        ""
+                    ],
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047797",
+                            "color-name": "Rosemary Green",
+                            "color-group": "green",
+                            "style-id-01": "LW5CTHS",
+                            "style-id": "LW5CTHS-047797",
+                            "sku": "us_127676782",
+                            "size": "0",
+                            "sku-style-order-id": "9985",
+                            "color-id": "47797"
+                        },
+                        {
+                            "style-id-02": "045619",
+                            "color-name": "Heritage 365 Camo Dark Olive Multi",
+                            "color-group": "Printed^green^olive^Camo",
+                            "style-id-01": "LW5BSZS",
+                            "style-id": "LW5BSZS-045619",
+                            "sku": "us_122750678",
+                            "size": "0",
+                            "sku-style-order-id": "9986",
+                            "color-id": "45619"
+                        },
+                        {
+                            "style-id-02": "046594",
+                            "color-name": "Diamond Dye Asphalt Grey True Navy",
+                            "color-group": "grey",
+                            "style-id-01": "LW5COUS",
+                            "style-id": "LW5COUS-046594",
+                            "sku": "us_127677142",
+                            "size": "0",
+                            "sku-style-order-id": "9987",
+                            "color-id": "46594"
+                        },
+                        {
+                            "style-id-02": "043990",
+                            "color-name": "Diamond Dye Pitch Grey Graphite Grey",
+                            "color-group": "Printed^grey^tie dye",
+                            "style-id-01": "LW5COUS",
+                            "style-id": "LW5COUS-043990",
+                            "sku": "us_114827751",
+                            "size": "0",
+                            "sku-style-order-id": "9988",
+                            "color-id": "43990"
+                        },
+                        {
+                            "style-id-02": "048616",
+                            "color-name": "Inflorescence Multi",
+                            "color-group": "Printed^pink",
+                            "style-id-01": "LW5BZ0S",
+                            "style-id": "LW5BZ0S-048616",
+                            "sku": "us_127676972",
+                            "size": "0",
+                            "sku-style-order-id": "9989",
+                            "color-id": "48616"
+                        },
+                        {
+                            "style-id-02": "048615",
+                            "color-name": "Water Blossom Multi",
+                            "color-group": "Printed",
+                            "style-id-01": "LW5BZ0S",
+                            "style-id": "LW5BZ0S-048615",
+                            "sku": "us_127676909",
+                            "size": "0",
+                            "sku-style-order-id": "9990",
+                            "color-id": "48615"
+                        },
+                        {
+                            "style-id-02": "037362",
+                            "color-name": "Speckle Emboss Black",
+                            "color-group": "Printed^black",
+                            "style-id-01": "LW5DA5S",
+                            "style-id": "LW5DA5S-037362",
+                            "sku": "us_127677254",
+                            "size": "0",
+                            "sku-style-order-id": "9991",
+                            "color-id": "37362"
+                        },
+                        {
+                            "style-id-02": "0002",
+                            "color-name": "White",
+                            "color-group": "white",
+                            "style-id-01": "LW5CTIS",
+                            "style-id": "LW5CTIS-0002",
+                            "sku": "us_127600337",
+                            "size": "10",
+                            "sku-style-order-id": "9992",
+                            "color-id": "0002"
+                        },
+                        {
+                            "style-id-02": "047184",
+                            "color-name": "Heritage 365 Camo Deep Coal Multi",
+                            "color-group": "Printed^Camo^black",
+                            "style-id-01": "LW5BSZS",
+                            "style-id": "LW5BSZS-047184",
+                            "sku": "us_122750850",
+                            "size": "6",
+                            "sku-style-order-id": "9993",
+                            "color-id": "47184"
+                        },
+                        {
+                            "style-id-02": "038292",
+                            "color-name": "Chambray",
+                            "color-group": "blue",
+                            "style-id-01": "LW5CTHS",
+                            "style-id": "LW5CTHS-038292",
+                            "sku": "us_117378217",
+                            "size": "12",
+                            "sku-style-order-id": "9994",
+                            "color-id": "38292"
+                        },
+                        {
+                            "style-id-02": "026950",
+                            "color-name": "cassis",
+                            "color-group": "burgundy^red",
+                            "style-id-01": "LW5CTES",
+                            "style-id": "LW5CTES-026950",
+                            "sku": "us_117377833",
+                            "size": "0",
+                            "sku-style-order-id": "9995",
+                            "color-id": "26950"
+                        },
+                        {
+                            "style-id-02": "026083",
+                            "color-name": "dark olive",
+                            "color-group": "green^olive",
+                            "style-id-01": "LW5CTES",
+                            "style-id": "LW5CTES-026083",
+                            "sku": "us_117377938",
+                            "size": "2",
+                            "sku-style-order-id": "9996",
+                            "color-id": "26083"
+                        },
+                        {
+                            "style-id-02": "1966",
+                            "color-name": "Heathered Black",
+                            "color-group": "grey",
+                            "style-id-01": "LW5CZQS",
+                            "style-id": "LW5CZQS-1966",
+                            "sku": "us_123025607",
+                            "size": "0",
+                            "sku-style-order-id": "9997",
+                            "color-id": "1966"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-name": "Black",
+                            "color-group": "black",
+                            "style-id-01": "LW5BOBS",
+                            "style-id": "LW5BOBS-0001",
+                            "sku": "us_104456851",
+                            "size": "12",
+                            "sku-style-order-id": "9998",
+                            "color-id": "0001"
+                        },
+                        {
+                            "style-id-02": "031382",
+                            "color-name": "True Navy",
+                            "color-group": "navy^blue",
+                            "style-id-01": "LW5AYNS",
+                            "style-id": "LW5AYNS-031382",
+                            "sku": "us_3786602",
+                            "size": "12",
+                            "sku-style-order-id": "9999",
+                            "color-id": "31382"
+                        }
+                    ],
+                    "sku-style-number": [
+                        "LW5AYNS-026083",
+                        "LW5AYNS-031382",
+                        "LW5BOBS-0001",
+                        "LW5BOBS-026083",
+                        "LW5BOBS-031382",
+                        "LW5BSZS-045619",
+                        "LW5BSZS-047184",
+                        "LW5BZ0S-048615",
+                        "LW5BZ0S-048616",
+                        "LW5COUS-043990",
+                        "LW5COUS-046594",
+                        "LW5CTES-0001",
+                        "LW5CTES-026083",
+                        "LW5CTES-026950",
+                        "LW5CTES-031382",
+                        "LW5CTHS-038292",
+                        "LW5CTHS-047797",
+                        "LW5CTIS-0002",
+                        "LW5CZQS-1966",
+                        "LW5DA5S-037362",
+                        "LW5DITS-026083",
+                        "LW5DITS-026950",
+                        "LW5DITS-031382"
+                    ],
+                    "default-parent-category": "category:uswwearit5",
+                    "list-price": [
+                        "98.000000",
+                        "118.000000"
+                    ],
+                    "repository-id": "prod8780551",
+                    "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5AYNS_0001_Z",
+                    "product-on-sale": "0",
+                    "bazaar-voice-id": "Align_Pant_Full_Length_28",
+                    "product-coverage": "High Waisted",
+                    "image-scheme": "Old",
+                    "default-sku": "us_101751369",
+                    "display-name-with-br": "",
+                    "product-whats-new": "1",
+                    "unified-id": "Align-Pant-Full-Length-28",
+                    "product-silver": "0",
+                    "has-linked-products": "false",
+                    "parent-category-unified-id": "women-pants",
+                    "product-applicable-systems": "All"
+                }
+            ],
+            "whyWeMadeThis": {
+                "text": "When feeling nothing is everything. The Align collection, powered by Nulu™ fabric, is so weightless and buttery soft, all you feel is your practice.",
+                "image": ""
+            },
+            "product-carousel": [
+                {
+                    "model-info": {
+                        "description": "Kamari is 5’9\" and wears a size 4",
+                        "modelIsWearing": [
+                            {
+                                "imageURL": "https://images.lululemon.com/is/image/lululemon/LW2BVZS_047780_1",
+                                "numberOfAvailableColors": 6,
+                                "listPrice": "68.00",
+                                "url": "/p/women-sports-bras/In-Alignment-Short-Sleeve-Bra-AB/_/prod9820300?color=LW2BVZS-047780&skuId=127426279",
+                                "productName": "In Alignment Straight Strap Bra*Light Support, A/B Cup",
+                                "onSale": false,
+                                "salePrice": null
+                            }
+                        ]
+                    },
+                    "swatch-image": "Diamond Dye Asphalt Grey True Navy",
+                    "swatch-color-name": "Diamond Dye Asphalt Grey True Navy",
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_5"
+                    ],
+                    "color-code": "46594",
+                    "inseam": null
+                },
+                {
+                    "model-info": {
+                        "modelIsWearing": []
+                    },
+                    "swatch-image": "Diamond Dye Graphite Grey Pink Pastel",
+                    "swatch-color-name": "Diamond Dye Graphite Grey Pink Pastel",
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGPS_046199_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGPS_046199_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGPS_046199_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGPS_046199_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW6BGPS_046199_5"
+                    ],
+                    "color-code": "46199",
+                    "inseam": null
+                }
+            ],
+            "loyalty-product": false,
+            "refinement-crumbs": {
+                "ancestors": [
+                    {
+                        "site-root-path": null,
+                        "label": "Women's Clothes",
+                        "content-path": null,
+                        "navigation-state": "/story/women",
+                        "properties": null
+                    },
+                    {
+                        "site-root-path": null,
+                        "label": "Pants",
+                        "content-path": null,
+                        "navigation-state": "/c/women-pants/_/N-7w0",
+                        "properties": null
+                    }
+                ],
+                "remove-action": null,
+                "label": "Capris",
+                "display-name": "product.category",
+                "dimension-name": "product.category",
+                "multi-select": false,
+                "properties": {
+                    "n-value": "N-8sa",
+                    "navigation-state": "/c/women-crops/_/N-8sa"
+                },
+                "count": null
+            },
+            "product-attributes": {
+                "product-content-feature": [
+                    {
+                        "f5ContentAlignmentPDP": "right",
+                        "styleId": "LW6BGOS",
+                        "f5Features": [
+                            {
+                                "featureName": "designed for",
+                                "featureDescription": "Yoga"
+                            },
+                            {
+                                "featureName": "LYCRA®",
+                                "featureDescription": "Added Lycra® fibre for shape retention"
+                            },
+                            {
+                                "featureName": "Comfortable waistband",
+                                "featureDescription": "Lies flat against your skin and won't dig in"
+                            },
+                            {
+                                "featureName": "Waistband storage",
+                                "featureDescription": "Pocket on the waistband holds your key or card"
+                            },
+                            {
+                                "featureName": "high-rise",
+                                "featureDescription": "Keeps you feeling covered and secure"
+                            },
+                            {
+                                "featureName": "Rise and Inseam",
+                                "featureDescription": "High rise, 23\" inseam"
+                            }
+                        ]
+                    }
+                ],
+                "fitDetails": "",
+                "product-content-fabric": [
+                    {
+                        "fabricDescription": "Lightweight, buttery-soft Nulu™ fabric wicks sweat and is four-way stretch",
+                        "fabricDisplayName": "Nulu™",
+                        "fabricId": "Nulu",
+                        "fabricPurposes": [
+                            "buttery-soft handfeel",
+                            "lightweight",
+                            "sweat-wicking",
+                            "four-way stretch"
+                        ]
+                    }
+                ],
+                "fabricName": "",
+                "product-content-care": [
+                    {
+                        "colorId": "046594",
+                        "heroBannerHotSpotText": "Kamari is 5’9\" and wears a size 4",
+                        "care": [
+                            {
+                                "careId": "Wash-with-like-colours",
+                                "careDescription": "Wash with like colours"
+                            },
+                            {
+                                "careId": "Machine-wash-cold",
+                                "careDescription": "Machine wash cold",
+                                "iconImgUrl": "icon-machine-wash-cold"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Line-dry",
+                                "careDescription": "Line dry",
+                                "iconImgUrl": "icon-line-dry-hang-to-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "brand-statement": {
+                "common-id": null,
+                "category-unified-id": null,
+                "cqcontent-page-type": null,
+                "pid": null,
+                "product-site-id": [],
+                "cqcontent-type": null,
+                "product-applicable-systems": null,
+                "cqcontent-content-type": null,
+                "product-navigation-id": null,
+                "product-catalog-id": [],
+                "locale": [],
+                "cqcontent-content": null,
+                "cqcontent-content-json": null
+            },
+            "purchase-attributes": {
+                "all-inseam": [
+                    {
+                        "inseam": "21\"",
+                        "productUrl": "/p/women-crops/Align-Crop-21-Diamond-Dye/_/prod9850048",
+                        "productId": "prod9850048"
+                    },
+                    {
+                        "inseam": "23\"",
+                        "productUrl": "/p/women-crops/Align-Crop-23-Diamond-Dye/_/prod10080054",
+                        "productId": "prod10080054"
+                    }
+                ],
+                "bopis-color-driver": null,
+                "find-in-store": {
+                    "text": "Find in Store",
+                    "url": "#"
+                },
+                "selected-swatch-index": 0,
+                "sizeGuideCategory": "womens-pants",
+                "chat-url": "https://lululemon.custhelp.com/app/chat/chat_launch/site/en_US",
+                "add-to-cart": {
+                    "text": "Add to Bag",
+                    "url": "#"
+                },
+                "size-guide-url": "//shop.lululemon.com/help/size-guide",
+                "reviews": {
+                    "count": 24,
+                    "url": "#"
+                },
+                "color-driver": [
+                    {
+                        "color": "46594",
+                        "sizes": [
+                            "0",
+                            "2",
+                            "4",
+                            "6",
+                            "8",
+                            "12"
+                        ]
+                    }
+                ],
+                "selected-swatch-color": "Diamond Dye Asphalt Grey True Navy",
+                "all-size": [
+                    {
+                        "state": "available",
+                        "name": "0"
+                    },
+                    {
+                        "state": "available",
+                        "name": "2"
+                    },
+                    {
+                        "state": "available",
+                        "name": "4"
+                    },
+                    {
+                        "state": "available",
+                        "name": "6"
+                    },
+                    {
+                        "state": "available",
+                        "name": "8"
+                    },
+                    {
+                        "state": "outofstock",
+                        "name": "10"
+                    },
+                    {
+                        "state": "available",
+                        "name": "12"
+                    },
+                    {
+                        "state": "outofstock",
+                        "name": "14"
+                    }
+                ],
+                "share-url": "#",
+                "all-color": [
+                    {
+                        "color-code": "46199",
+                        "display-name": "046199 - DDGP DDGP"
+                    },
+                    {
+                        "color-code": "46594",
+                        "display-name": "046594 - DIDT DIDT"
+                    }
+                ],
+                "size-driver": [
+                    {
+                        "size": "0",
+                        "colors": [
+                            "46594"
+                        ]
+                    },
+                    {
+                        "size": "2",
+                        "colors": [
+                            "46594"
+                        ]
+                    },
+                    {
+                        "size": "4",
+                        "colors": [
+                            "46594"
+                        ]
+                    },
+                    {
+                        "size": "6",
+                        "colors": [
+                            "46594"
+                        ]
+                    },
+                    {
+                        "size": "8",
+                        "colors": [
+                            "46594"
+                        ]
+                    },
+                    {
+                        "size": "12",
+                        "colors": [
+                            "46594"
+                        ]
+                    }
+                ]
+            },
+            "ineligible-product": false,
+            "designedFor": {
+                "iconId": "icon_yoga",
+                "activityText": "Yoga"
+            },
+            "linked-products": [],
+            "productEducation": [
+                {
+                    "iconId": "fabric_soft",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "So buttery soft, it feels weightless",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Four-way stretch",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Sweat-wicking",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Breathable",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Added Lycra® fibre for stretch and shape retention",
+                            "list": null
+                        }
+                    ],
+                    "media": [],
+                    "id": "fabricOrBenefits",
+                    "title": "Feels Buttery Soft and Weightless, Nulu™ Fabric"
+                },
+                {
+                    "iconId": "icon_rise",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "Intended to sit below calf",
+                            "list": null
+                        }
+                    ],
+                    "media": [],
+                    "id": "fitOrIngredients",
+                    "title": "High Rise, 23\" Length"
+                },
+                {
+                    "iconId": "feature_pockets",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "Hidden waistband pocket fits a card or a key, and it won’t get in your way",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "This collection’s great for low-impact workouts like yoga, or whenever you want to feel really, really comfortable",
+                            "list": null
+                        }
+                    ],
+                    "media": [],
+                    "id": "featuresOrHowToUse",
+                    "title": "Product Features"
+                }
+            ],
+            "hazmat-product": false,
+            "child-skus": [
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "8",
+                    "color-code": "46594",
+                    "id": "127601112",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "6",
+                    "color-code": "46594",
+                    "id": "127601108",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "4",
+                    "color-code": "46594",
+                    "id": "127601105",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "2",
+                    "color-code": "46594",
+                    "id": "127601086",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "14",
+                    "color-code": "46594",
+                    "id": "127601076",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "12",
+                    "color-code": "46594",
+                    "id": "127601071",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "10",
+                    "color-code": "46594",
+                    "id": "127601068",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": true,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGOS",
+                    "style-id": "LW6BGOS-046594",
+                    "in-store": false,
+                    "size": "0",
+                    "color-code": "46594",
+                    "id": "127601065",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "0",
+                    "color-code": "46199",
+                    "id": "123027330",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "10",
+                    "color-code": "46199",
+                    "id": "123027388",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "12",
+                    "color-code": "46199",
+                    "id": "123027425",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "14",
+                    "color-code": "46199",
+                    "id": "123027450",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "2",
+                    "color-code": "46199",
+                    "id": "123027511",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "4",
+                    "color-code": "46199",
+                    "id": "123027608",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "6",
+                    "color-code": "46199",
+                    "id": "123027625",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                },
+                {
+                    "available": false,
+                    "productId": "prod10080054",
+                    "style-number": "LW6BGPS",
+                    "style-id": "LW6BGPS-046199",
+                    "in-store": false,
+                    "size": "8",
+                    "color-code": "46199",
+                    "id": "123027641",
+                    "price-details": {
+                        "sale-price": null,
+                        "on-sale": false,
+                        "list-price": "98.00",
+                        "currency-symbol": "$",
+                        "currency-code": "USD"
+                    },
+                    "inseam": "23\""
+                }
+            ],
+            "product-summary": {
+                "parent-category-display-name": "Leggings",
+                "sku-sku-images": [
+                    "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW6BGOS_046594_2"
+                ],
+                "product-no-follow": "0",
+                "display-name": "lululemon Align™ Crop 23\"  *Diamond Dye",
+                "color-group": [
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                        "name": "grey"
+                    }
+                ],
+                "free-return-shipping": "true",
+                "all-available-sizes": [
+                    "0",
+                    "10",
+                    "12",
+                    "14",
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "product-has-outfit-product": "0",
+                "locale": [
+                    "en_US"
+                ],
+                "product-category-hierarchy": "^women^^uswomen|^Pants^^uswwearit5|^Capris^^uswwearit2",
+                "currency-code": "USD",
+                "product-id": "prod10080054",
+                "all-ancestors-repository-id": [
+                    "cat2530002",
+                    "usrootCategory",
+                    "uswleggings",
+                    "uswomen",
+                    "uswwearit2",
+                    "uswwearit5"
+                ],
+                "title": "Align Crop 23\" *Diamond Dye | Women's Capris",
+                "all-ancestors-display-name": [
+                    "Bestsellers",
+                    "Capris",
+                    "Commerce Root",
+                    "Leggings",
+                    "Pants",
+                    "women"
+                ],
+                "is-sold-out": false,
+                "price": "98.000000",
+                "pdp-url": "/p/women-crops/Align-Crop-23-Diamond-Dye/_/prod10080054",
+                "display-ca": "1",
+                "linked-products": [
+                    ""
+                ],
+                "product-mark-down": "0",
+                "activity": [
+                    "casual",
+                    "dance",
+                    "On the Move",
+                    "travel",
+                    "yoga"
+                ],
+                "product-category": [
+                    "Bestsellers",
+                    "Capris",
+                    "Leggings"
+                ],
+                "is-final-sale": false,
+                "gender": "women",
+                "product-number-of-image-assets": "0",
+                "product-name": "lululemon Align™ Crop 23\"  *Diamond Dye",
+                "product-non-returnable": "0",
+                "sku-style-order": [
+                    {
+                        "sku": "us_127601065",
+                        "size": "0"
+                    }
+                ],
+                "sku-style-number": [
+                    "LW6BGOS-046594"
+                ],
+                "collections": [
+                    "Align"
+                ],
+                "price-range": "['$50-$100', '$75-$100', '$80-$100', '$90-$100', '$90-$105']",
+                "default-parent-category": "category:uswleggings",
+                "list-price": [
+                    "98.000000"
+                ],
+                "repository-id": "prod10080054",
+                "f5-bckimg-url": "",
+                "product-base-url": "atgrep:/ProductCatalog/product/prod10080054",
+                "product-on-sale": "0",
+                "is-new": false,
+                "product-catalog-id": [
+                    "catalog10001"
+                ],
+                "bazaar-voice-id": "Align_Crop_23_Diamond_Dye",
+                "product-coverage": "High Waisted",
+                "item-type": [
+                    "activities",
+                    "Catalog",
+                    "Category",
+                    "genders",
+                    "Product",
+                    "SKU"
+                ],
+                "type": "products",
+                "product-activity-id-repository-id": [
+                    "w_casual",
+                    "w_dance",
+                    "w_tofrom",
+                    "w_travel",
+                    "w_yoga"
+                ],
+                "product-default-sort": "5.310000",
+                "why-we-made-this": "When feeling nothing is everything. The Align collection, powered by Nulu™ fabric, is so weightless and buttery soft, all you feel is your practice.",
+                "isProductLocaleMatch": true,
+                "loyalty-terms-and-conditions": null,
+                "image-scheme": "Old",
+                "product-sizes": [
+                    "0",
+                    "2",
+                    "4",
+                    "6",
+                    "8",
+                    "10",
+                    "12",
+                    "14"
+                ],
+                "default-sku": "us_123027641",
+                "product-disallow-as-recommendation": "0",
+                "product-no-index": "0",
+                "display-name-with-br": "",
+                "is-displayable": "1",
+                "common-id": "pprod10080054na__en__us__site",
+                "product-whats-new": "0",
+                "sku-on-sale": "0",
+                "product-site-id": [
+                    "na_en_us_site"
+                ],
+                "product-last-sku-addition-date-time": "1615916360394",
+                "unified-id": "Align-Crop-23-Diamond-Dye",
+                "product-site-map-pdp-url": "//shop.lululemon.com/p/women-crops/Align-Crop-23-Diamond-Dye/_/prod10080054",
+                "display": "1",
+                "product-silver": "0",
+                "has-linked-products": "false",
+                "parent-category-keywords": "women&#39;s  cropped  pants cropped  yoga  pants capri  yoga  pants cropped  tights cropped  leggings ladies  cropped  pants yoga  wear dancewear",
+                "parent-category-unified-id": "womens-leggings",
+                "product-applicable-systems": "All",
+                "colour": "grey|https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                "product-language": "English"
+            },
+            "styles": [
+                {
+                    "product-feature-id": [
+                        "LW6BGOS_features"
+                    ],
+                    "fabric-id": [
+                        "LW6BGOS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "care-id": [
+                                "Wash-with-like-colours",
+                                "Machine-wash-cold",
+                                "Do-not-bleach",
+                                "Line-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "model-description": "Kamari is 5’9\" and wears a size 4",
+                            "id": "LW6BGOS-046594"
+                        }
+                    ],
+                    "id": "LW6BGOS"
+                }
+            ],
+            "alsoAvailableIn": [],
+            "has-linked-products": "False"
+        }
+    }
+}

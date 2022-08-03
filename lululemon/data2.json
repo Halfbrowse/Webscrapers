@@ -1,0 +1,3905 @@
+{
+    "links": {
+        "last": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=20&Nrpp=10",
+        "next": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=10&Nrpp=10",
+        "self": "http://shop.lululemon.com/c/women/_/N-7vfZ1z13zii?mnid=mn;en-US;women;features;whats-new&format=json&No=0&Nrpp=10"
+    },
+    "meta": {},
+    "data": {
+        "id": "cdp",
+        "type": "ProductCategoryDetailsPage",
+        "name": "Product Details Page",
+        "h1-title-tag": "",
+        "isFusionQuery": false,
+        "isBopisEnabled": true,
+        "attributes": {
+            "has-linked-products": "False",
+            "refinement-crumbs": {
+                "dimension-name": "product.category",
+                "multi-select": false,
+                "display-name": "product.category",
+                "ancestors": [
+                    {
+                        "site-root-path": null,
+                        "navigation-state": "/c/accessories/_/N-8pb",
+                        "content-path": null,
+                        "label": "Accessories",
+                        "properties": null
+                    }
+                ],
+                "count": null,
+                "label": "Bags",
+                "properties": {
+                    "n-value": "N-8rd",
+                    "navigation-state": "/c/bags/_/N-8rd"
+                },
+                "remove-action": null
+            },
+            "productEducation": [
+                {
+                    "media": [],
+                    "iconId": "fabric_waterclaims",
+                    "title": "Water-Repellent Fabric",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "Water-repellent",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Easy to wipe clean",
+                            "list": null
+                        }
+                    ],
+                    "id": "fabricOrBenefits"
+                },
+                {
+                    "media": [],
+                    "iconId": "icon_size_default",
+                    "title": "Dimensions and Volume",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "Dimensions: 19cm x 5cm x 13cm (7.5\" x 2\" x 5\")",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Volume: 1L",
+                            "list": null
+                        }
+                    ],
+                    "id": "fitOrIngredients"
+                },
+                {
+                    "media": [],
+                    "iconId": "feature_pockets",
+                    "title": "Product Features",
+                    "attributes": [
+                        {
+                            "iconId": "",
+                            "text": "Zippered pockets",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Exterior pocket",
+                            "list": null
+                        },
+                        {
+                            "iconId": "",
+                            "text": "Interior pocket",
+                            "list": null
+                        }
+                    ],
+                    "id": "featuresOrHowToUse"
+                }
+            ],
+            "product-carousel": [
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_5"
+                    ],
+                    "swatch-color-name": "Green Fern/Smoked Spruce/Neo Mint",
+                    "swatch-image": "Green Fern/Smoked Spruce/Neo Mint",
+                    "inseam": null,
+                    "color-code": "48202",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_5"
+                    ],
+                    "swatch-color-name": "Heritage 365 Camo Guava Pink Multi/Heritage 365 Camo Cafe Au Lait Multi/Heritage 365 Camo Hawaiian Blue Multi",
+                    "swatch-image": "Heritage 365 Camo Guava Pink Multi/Heritage 365 Camo Cafe Au Lait Multi/Heritage 365 Camo Hawaiian Blue Multi",
+                    "inseam": null,
+                    "color-code": "48176",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_5"
+                    ],
+                    "swatch-color-name": "True Navy",
+                    "swatch-image": "True Navy",
+                    "inseam": null,
+                    "color-code": "31382",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_5"
+                    ],
+                    "swatch-color-name": "neo mint",
+                    "swatch-image": "neo mint",
+                    "inseam": null,
+                    "color-code": "22159",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_5"
+                    ],
+                    "swatch-color-name": "White Opal/Black",
+                    "swatch-image": "White Opal/Black",
+                    "inseam": null,
+                    "color-code": "48905",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_5"
+                    ],
+                    "swatch-color-name": "Honey Lemon",
+                    "swatch-image": "Honey Lemon",
+                    "inseam": null,
+                    "color-code": "37126",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_5"
+                    ],
+                    "swatch-color-name": "Dark Terracotta/White Opal",
+                    "swatch-image": "Dark Terracotta/White Opal",
+                    "inseam": null,
+                    "color-code": "49633",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046198_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046198_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046198_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046198_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046198_5"
+                    ],
+                    "swatch-color-name": "Heritage Camo Jacquard Max Black Graphite Grey",
+                    "swatch-image": "Heritage Camo Jacquard Max Black Graphite Grey",
+                    "inseam": null,
+                    "color-code": "46198",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_043634_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_043634_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_043634_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_043634_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_043634_5"
+                    ],
+                    "swatch-color-name": "Springtime",
+                    "swatch-image": "Springtime",
+                    "inseam": null,
+                    "color-code": "43634",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_5",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CA7S_035871_Y"
+                    ],
+                    "swatch-color-name": "Jacquard Camo Cotton Obsidian/Black",
+                    "swatch-image": "Jacquard Camo Cotton Obsidian/Black",
+                    "inseam": null,
+                    "color-code": "35871",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_045657_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_045657_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_045657_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_045657_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_045657_5"
+                    ],
+                    "swatch-color-name": "Burnt Caramel",
+                    "swatch-image": "Burnt Caramel",
+                    "inseam": null,
+                    "color-code": "45657",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_026950_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_026950_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_026950_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_026950_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_026950_5"
+                    ],
+                    "swatch-color-name": "cassis",
+                    "swatch-image": "cassis",
+                    "inseam": null,
+                    "color-code": "26950",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DE1S_047119_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DE1S_047119_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DE1S_047119_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DE1S_047119_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DE1S_047119_5"
+                    ],
+                    "swatch-color-name": "Pink Highlight/Cerulean Blue/Highlight Yellow",
+                    "swatch-image": "Pink Highlight/Cerulean Blue/Highlight Yellow",
+                    "inseam": null,
+                    "color-code": "47119",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CO8S_042293_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CO8S_042293_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CO8S_042293_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CO8S_042293_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CO8S_042293_5"
+                    ],
+                    "swatch-color-name": "Stacked Jacquard Black Cherry Nocturnal Teal",
+                    "swatch-image": "Stacked Jacquard Black Cherry Nocturnal Teal",
+                    "inseam": null,
+                    "color-code": "42293",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036763_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036763_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036763_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036763_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036763_5"
+                    ],
+                    "swatch-color-name": "Grey Sage",
+                    "swatch-image": "Grey Sage",
+                    "inseam": null,
+                    "color-code": "36763",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYYS_045609_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYYS_045609_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYYS_045609_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYYS_045609_4"
+                    ],
+                    "swatch-color-name": "Ancient Copper",
+                    "swatch-image": "Ancient Copper",
+                    "inseam": null,
+                    "color-code": "45609",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DG8S_045710_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DG8S_045710_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DG8S_045710_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DG8S_045710_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DG8S_045710_5"
+                    ],
+                    "swatch-color-name": "Pink Highlight",
+                    "swatch-image": "Pink Highlight",
+                    "inseam": null,
+                    "color-code": "45710",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046178_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046178_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046178_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CYXS_046178_4"
+                    ],
+                    "swatch-color-name": "Heritage Camo Jacquard Max Dark Olive Sargent Green",
+                    "swatch-image": "Heritage Camo Jacquard Max Dark Olive Sargent Green",
+                    "inseam": null,
+                    "color-code": "46178",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_045773_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_045773_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_045773_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_045773_4"
+                    ],
+                    "swatch-color-name": "Pink Pastel",
+                    "swatch-image": "Pink Pastel",
+                    "inseam": null,
+                    "color-code": "45773",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_5"
+                    ],
+                    "swatch-color-name": "Black",
+                    "swatch-image": "Black",
+                    "inseam": null,
+                    "color-code": "0001",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_044629_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_044629_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_044629_3"
+                    ],
+                    "swatch-color-name": "Medium Olive",
+                    "swatch-image": "Medium Olive",
+                    "inseam": null,
+                    "color-code": "44629",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036756_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036756_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_036756_3"
+                    ],
+                    "swatch-color-name": "Blue Cast",
+                    "swatch-image": "Blue Cast",
+                    "inseam": null,
+                    "color-code": "36756",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_5"
+                    ],
+                    "swatch-color-name": "Silver Drop",
+                    "swatch-image": "Silver Drop",
+                    "inseam": null,
+                    "color-code": "33928",
+                    "model-info": {
+                        "description": null,
+                        "modelIsWearing": [
+                            {
+                                "listPrice": "128.00",
+                                "imageURL": "https://images.lululemon.com/is/image/lululemon/LW5CYBS_0001_1",
+                                "productName": "Here to There High-Rise 7/8 Pant ",
+                                "salePrice": "69.00",
+                                "onSale": true,
+                                "url": "/p/womens-trousers/Here-to-There-HighRise-78-Pant-MD/_/prod10300079?color=LW5CYBS-0001&skuId=122876447",
+                                "numberOfAvailableColors": 3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_044261_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_044261_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_044261_3"
+                    ],
+                    "swatch-color-name": "Tiger",
+                    "swatch-image": "Tiger",
+                    "inseam": null,
+                    "color-code": "44261",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CRBS_044165_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CRBS_044165_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CRBS_044165_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CRBS_044165_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CRBS_044165_5"
+                    ],
+                    "swatch-color-name": "Fragment Camo Jacquard Black Deep Coal",
+                    "swatch-image": "Fragment Camo Jacquard Black Deep Coal",
+                    "inseam": null,
+                    "color-code": "44165",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_043608_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_043608_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_043608_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_043608_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_043608_5"
+                    ],
+                    "swatch-color-name": "Algae Green",
+                    "swatch-image": "Algae Green",
+                    "inseam": null,
+                    "color-code": "43608",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_035679_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_035679_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_035679_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_035679_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_035679_5"
+                    ],
+                    "swatch-color-name": "Moonwalk",
+                    "swatch-image": "Moonwalk",
+                    "inseam": null,
+                    "color-code": "35679",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_034181_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_034181_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_034181_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_034181_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CKKS_034181_5"
+                    ],
+                    "swatch-color-name": "Smoky Blush",
+                    "swatch-image": "Smoky Blush",
+                    "inseam": null,
+                    "color-code": "34181",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_029112_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_029112_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_029112_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_029112_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_029112_5"
+                    ],
+                    "swatch-color-name": "chrome",
+                    "swatch-image": "chrome",
+                    "inseam": null,
+                    "color-code": "29112",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_041034_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_041034_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_041034_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_041034_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_041034_5"
+                    ],
+                    "swatch-color-name": "Carbon Dust/Black",
+                    "swatch-image": "Carbon Dust/Black",
+                    "inseam": null,
+                    "color-code": "41034",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BZQS_038374_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BZQS_038374_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BZQS_038374_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BZQS_038374_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BZQS_038374_5"
+                    ],
+                    "swatch-color-name": "Floral Spritz Multi",
+                    "swatch-image": "Floral Spritz Multi",
+                    "inseam": null,
+                    "color-code": "38374",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_040806_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_040806_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_040806_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_040806_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_040806_5"
+                    ],
+                    "swatch-color-name": "TB2 Shiny Black",
+                    "swatch-image": "TB2 Shiny Black",
+                    "inseam": null,
+                    "color-code": "40806",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_0293_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_0293_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_0293_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_0293_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BV7S_0293_5"
+                    ],
+                    "swatch-color-name": "silver",
+                    "swatch-image": "silver",
+                    "inseam": null,
+                    "color-code": "0293",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BXTS_8650_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BXTS_8650_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BXTS_8650_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BXTS_8650_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BXTS_8650_5"
+                    ],
+                    "swatch-color-name": "Heathered Black/Black",
+                    "swatch-image": "Heathered Black/Black",
+                    "inseam": null,
+                    "color-code": "8650",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_5",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_034452_Y"
+                    ],
+                    "swatch-color-name": "Flowerescent Multi/Black",
+                    "swatch-image": "Flowerescent Multi/Black",
+                    "inseam": null,
+                    "color-code": "34452",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_035691_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_035691_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_035691_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_035691_4"
+                    ],
+                    "swatch-color-name": "Ikat Needle Dot Grey Black/Black",
+                    "swatch-image": "Ikat Needle Dot Grey Black/Black",
+                    "inseam": null,
+                    "color-code": "35691",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_033037_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_033037_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_033037_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_033037_4"
+                    ],
+                    "swatch-color-name": "Fuchsia Pink",
+                    "swatch-image": "Fuchsia Pink",
+                    "inseam": null,
+                    "color-code": "33037",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_038292_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_038292_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_038292_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_038292_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_038292_5"
+                    ],
+                    "swatch-color-name": "Chambray",
+                    "swatch-image": "Chambray",
+                    "inseam": null,
+                    "color-code": "38292",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_033217_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_033217_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_033217_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BEYS_033217_4"
+                    ],
+                    "swatch-color-name": "Swerve Vapor Metal Grey/Black",
+                    "swatch-image": "Swerve Vapor Metal Grey/Black",
+                    "inseam": null,
+                    "color-code": "33217",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_031882_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_031882_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_031882_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_031882_4"
+                    ],
+                    "swatch-color-name": "Misty Pink",
+                    "swatch-image": "Misty Pink",
+                    "inseam": null,
+                    "color-code": "31882",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603_4"
+                    ],
+                    "swatch-color-name": "dark chrome",
+                    "swatch-image": "dark chrome",
+                    "inseam": null,
+                    "color-code": "28603",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_032576_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_032576_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_032576_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9AZLS_032576_4"
+                    ],
+                    "swatch-color-name": "Teal Shadow",
+                    "swatch-image": "Teal Shadow",
+                    "inseam": null,
+                    "color-code": "32576",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                },
+                {
+                    "image-info": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_028948_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_028948_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_028948_3",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_028948_4",
+                        "https://images.lululemon.com/is/image/lululemon/LW9CEYS_028948_5"
+                    ],
+                    "swatch-color-name": "dark red",
+                    "swatch-image": "dark red",
+                    "inseam": null,
+                    "color-code": "28948",
+                    "model-info": {
+                        "modelIsWearing": []
+                    }
+                }
+            ],
+            "ineligible-product": false,
+            "tier": "1",
+            "hazmat-product": false,
+            "colorAttributes": {
+                "48176": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "48905": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Polyurethane"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "22159": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "0001": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "37126": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "48202": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Bottom panel",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Back panel",
+                                            "items": [
+                                                "100% Polyurethane"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Front panel",
+                                            "items": [
+                                                "100% Polyurethane"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "31382": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "33928": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Body",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                },
+                "49633": {
+                    "careAndContent": {
+                        "sections": [
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Mesh",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Lining",
+                                            "items": [
+                                                "100% Polyester"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Bottom panel",
+                                            "items": [
+                                                "100% Polyurethane"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Back panel",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "",
+                                        "list": {
+                                            "title": "Front panel",
+                                            "items": [
+                                                "100% Nylon"
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "title": "Materials",
+                                "media": []
+                            },
+                            {
+                                "attributes": [
+                                    {
+                                        "iconId": "",
+                                        "text": "Spot clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-wash",
+                                        "text": "Do not wash",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-bleach",
+                                        "text": "Do not bleach",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-tumble-dry",
+                                        "text": "Do not tumble dry",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-iron",
+                                        "text": "Do not iron",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "icon-do-not-dry-clean",
+                                        "text": "Do not dry clean",
+                                        "list": null
+                                    },
+                                    {
+                                        "iconId": "",
+                                        "text": "Imported",
+                                        "list": null
+                                    }
+                                ],
+                                "title": "Care",
+                                "media": []
+                            }
+                        ],
+                        "iconId": "fabric_generic",
+                        "title": "Material and care",
+                        "id": "careAndContent"
+                    }
+                }
+            },
+            "linked-products": [],
+            "brand-statement": {
+                "cqcontent-content": null,
+                "pid": null,
+                "cqcontent-type": null,
+                "category-unified-id": null,
+                "product-applicable-systems": null,
+                "cqcontent-content-type": null,
+                "locale": [],
+                "cqcontent-content-json": null,
+                "common-id": null,
+                "product-catalog-id": [],
+                "product-navigation-id": null,
+                "cqcontent-page-type": null,
+                "product-site-id": []
+            },
+            "product-attributes": {
+                "product-content-fabric": [
+                    {
+                        "fabricDescription": "Fabric is water-repellent and easy to wipe clean",
+                        "fabricId": "NN-Water-Repellent-Easy-To-Clean"
+                    }
+                ],
+                "product-content-care": [
+                    {
+                        "colorId": "037126",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "033928",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "031382",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "049633",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "048176",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "022159",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "048905",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "0001",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    },
+                    {
+                        "colorId": "048202",
+                        "heroBannerHotSpotText": "",
+                        "care": [
+                            {
+                                "careId": "Spot-clean",
+                                "careDescription": "Spot clean"
+                            },
+                            {
+                                "careId": "Do-not-wash",
+                                "careDescription": "Do not wash",
+                                "iconImgUrl": "icon-do-not-wash"
+                            },
+                            {
+                                "careId": "Do-not-bleach",
+                                "careDescription": "Do not bleach",
+                                "iconImgUrl": "icon-do-not-bleach"
+                            },
+                            {
+                                "careId": "Do-not-tumble-dry",
+                                "careDescription": "Do not tumble dry",
+                                "iconImgUrl": "icon-do-not-tumble-dry"
+                            },
+                            {
+                                "careId": "Do-not-iron",
+                                "careDescription": "Do not iron",
+                                "iconImgUrl": "icon-do-not-iron"
+                            },
+                            {
+                                "careId": "Do-not-dry-clean",
+                                "careDescription": "Do not dry clean",
+                                "iconImgUrl": "icon-do-not-dry-clean"
+                            },
+                            {
+                                "careId": "Imported",
+                                "careDescription": "Imported"
+                            }
+                        ]
+                    }
+                ],
+                "product-content-feature": [
+                    {
+                        "f5ContentAlignmentPDP": "right",
+                        "styleId": "LW9CEYS",
+                        "f5Features": [
+                            {
+                                "featureName": "designed for",
+                                "featureDescription": "On the Move"
+                            },
+                            {
+                                "featureName": "zipper pocket",
+                                "featureDescription": "Store your stuff in the secure zippered pocket"
+                            },
+                            {
+                                "featureName": "EASY-ACCESS POCKETS",
+                                "featureDescription": "Exterior pockets make it easy to stash your stuff"
+                            },
+                            {
+                                "featureName": "essentials pocket ",
+                                "featureDescription": "Store your must-haves in an interior pocket"
+                            },
+                            {
+                                "featureName": "Dimensions",
+                                "featureDescription": "Dimensions: 19cm x 5.5cm x 13cm (7.5\" x 2\" x 5\")"
+                            },
+                            {
+                                "featureName": "Volume",
+                                "featureDescription": "Volume: 1L"
+                            }
+                        ],
+                        "f5BckImgUrl": "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603"
+                    }
+                ],
+                "fitDetails": "",
+                "fabricName": ""
+            },
+            "purchase-attributes": {
+                "all-color": [
+                    {
+                        "display-name": "0001 - BLK BLK",
+                        "color-code": "0001"
+                    },
+                    {
+                        "display-name": "SLVR- SILVER",
+                        "color-code": "0293"
+                    },
+                    {
+                        "display-name": "NEMI- NEO MINT",
+                        "color-code": "22159"
+                    },
+                    {
+                        "display-name": "CSSI- CASSIS",
+                        "color-code": "26950"
+                    },
+                    {
+                        "display-name": "DKCH - DARK CHROME",
+                        "color-code": "28603"
+                    },
+                    {
+                        "display-name": "DKRD- DARK RED",
+                        "color-code": "28948"
+                    },
+                    {
+                        "display-name": "CHRM- CHROME",
+                        "color-code": "29112"
+                    },
+                    {
+                        "display-name": "TRNV-TRUE NAVY",
+                        "color-code": "31382"
+                    },
+                    {
+                        "display-name": "MITP-MISTY PINK",
+                        "color-code": "31882"
+                    },
+                    {
+                        "display-name": "TLSH-TEAL SHADOW",
+                        "color-code": "32576"
+                    },
+                    {
+                        "display-name": "FHPK-FUCHSIA PINK",
+                        "color-code": "33037"
+                    },
+                    {
+                        "display-name": "WRPY/BLK-SWERVE VAPOR METAL GREY/BLACK",
+                        "color-code": "33217"
+                    },
+                    {
+                        "display-name": "SILD-SILVER DROP",
+                        "color-code": "33928"
+                    },
+                    {
+                        "display-name": "SBLH-SMOKY BLUSH",
+                        "color-code": "34181"
+                    },
+                    {
+                        "display-name": "FLMI/BLK-FLOWERESCENT MULTI/BLACK",
+                        "color-code": "34452"
+                    },
+                    {
+                        "display-name": "MONW-MOONWALK",
+                        "color-code": "35679"
+                    },
+                    {
+                        "display-name": "IKND/BLK-IKAT NEEDLE DOT GREY BLACK/BLACK",
+                        "color-code": "35691"
+                    },
+                    {
+                        "display-name": "JCOB-JACQUARD CAMO COTTON OBSIDIAN/BLACK",
+                        "color-code": "35871"
+                    },
+                    {
+                        "display-name": "BUCA-BLUE CAST",
+                        "color-code": "36756"
+                    },
+                    {
+                        "display-name": "GRSG-GREY SAGE",
+                        "color-code": "36763"
+                    },
+                    {
+                        "display-name": "HNYL-HONEY LEMON",
+                        "color-code": "37126"
+                    },
+                    {
+                        "display-name": "CHBY CHBY-CHAMBRAY",
+                        "color-code": "38292"
+                    },
+                    {
+                        "display-name": "FSZM FSZM-FLORAL SPRITZ MULTI",
+                        "color-code": "38374"
+                    },
+                    {
+                        "display-name": "TBSB TBSB-TB2 SHINY BLACK",
+                        "color-code": "40806"
+                    },
+                    {
+                        "display-name": "CBND/BLK CBND/BLK-CARBON DUST/BLACK",
+                        "color-code": "41034"
+                    },
+                    {
+                        "display-name": "PLAA PLAA-STACKED JACQUARD BLACK CHERRY NOCTURNAL TEAL",
+                        "color-code": "42293"
+                    },
+                    {
+                        "display-name": "ALGR ALGR-ALGAE GREEN",
+                        "color-code": "43608"
+                    },
+                    {
+                        "display-name": "SGTI SGTI-SPRINGTIME",
+                        "color-code": "43634"
+                    },
+                    {
+                        "display-name": "OEME OEME-FRAGMENT CAMO JACQUARD BLACK DEEP COAL",
+                        "color-code": "44165"
+                    },
+                    {
+                        "display-name": "TIGE TIGE-TIGER",
+                        "color-code": "44261"
+                    },
+                    {
+                        "display-name": "044629 - MEOL MEOL",
+                        "color-code": "44629"
+                    },
+                    {
+                        "display-name": "045609 - ANCP ANCP",
+                        "color-code": "45609"
+                    },
+                    {
+                        "display-name": "045657 - BTCA BTCA",
+                        "color-code": "45657"
+                    },
+                    {
+                        "display-name": "045710 - PIHL PIHL",
+                        "color-code": "45710"
+                    },
+                    {
+                        "display-name": "045773 - PNPA PNPA",
+                        "color-code": "45773"
+                    },
+                    {
+                        "display-name": "046178 - HTDG HTDG",
+                        "color-code": "46178"
+                    },
+                    {
+                        "display-name": "046198 - HGXM HGXM",
+                        "color-code": "46198"
+                    },
+                    {
+                        "display-name": "047119 - PIHL/CEBL/HIYE PIHL/CEBL/HIYE",
+                        "color-code": "47119"
+                    },
+                    {
+                        "display-name": "048176 - H3GP/H3CL/H3HB H3GP/H3CL/H3HB",
+                        "color-code": "48176"
+                    },
+                    {
+                        "display-name": "048202 - GNFN/SKSR/NEMI GNFN/SKSR/NEMI",
+                        "color-code": "48202"
+                    },
+                    {
+                        "display-name": "048905 - WHTO/BLK WHTO/BLK",
+                        "color-code": "48905"
+                    },
+                    {
+                        "display-name": "049633 - DKTE/WHTO DKTE/WHTO",
+                        "color-code": "49633"
+                    },
+                    {
+                        "display-name": "8650 - HBLK/BLK HBLK/BLK",
+                        "color-code": "8650"
+                    }
+                ],
+                "share-url": "#",
+                "size-driver": [
+                    {
+                        "colors": [
+                            "0001",
+                            "33928",
+                            "0001",
+                            "49633",
+                            "37126",
+                            "48905",
+                            "22159",
+                            "31382",
+                            "48176",
+                            "48202"
+                        ],
+                        "size": "ONE SIZE"
+                    }
+                ],
+                "find-in-store": {
+                    "text": "Find in Store",
+                    "url": "#"
+                },
+                "all-size": [
+                    {
+                        "state": "available",
+                        "name": "ONE SIZE"
+                    }
+                ],
+                "chat-url": "https://lululemon.custhelp.com/app/chat/chat_launch/site/en_US",
+                "bopis-color-driver": null,
+                "size-guide-url": "//shop.lululemon.com/help/size-guide",
+                "add-to-cart": {
+                    "text": "Add to Bag",
+                    "url": "#"
+                },
+                "color-driver": [
+                    {
+                        "color": "49633",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "48202",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "0001",
+                        "sizes": [
+                            "ONE SIZE",
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "33928",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "37126",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "31382",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "48176",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "48905",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    },
+                    {
+                        "color": "22159",
+                        "sizes": [
+                            "ONE SIZE"
+                        ]
+                    }
+                ],
+                "sizeGuideCategory": "no-sizechart",
+                "selected-swatch-index": 0,
+                "all-inseam": [],
+                "reviews": {
+                    "count": 2737,
+                    "url": "#"
+                },
+                "selected-swatch-color": "Green Fern/Smoked Spruce/Neo Mint"
+            },
+            "child-skus": [
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DOCS-048202",
+                    "in-store": false,
+                    "style-number": "LW9DOCS",
+                    "available": true,
+                    "color-code": "48202",
+                    "id": "127600065"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DOFS-048176",
+                    "in-store": false,
+                    "style-number": "LW9DOFS",
+                    "available": true,
+                    "color-code": "48176",
+                    "id": "127600076"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-031382",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": true,
+                    "color-code": "31382",
+                    "id": "113025036"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-022159",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": true,
+                    "color-code": "22159",
+                    "id": "128025048"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DOBS-048905",
+                    "in-store": false,
+                    "style-number": "LW9DOBS",
+                    "available": true,
+                    "color-code": "48905",
+                    "id": "127429223"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-037126",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": true,
+                    "color-code": "37126",
+                    "id": "127600086"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DQRS-049633",
+                    "in-store": false,
+                    "style-number": "LW9DQRS",
+                    "available": true,
+                    "color-code": "49633",
+                    "id": "127600055"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CYXS-046198",
+                    "in-store": false,
+                    "style-number": "LW9CYXS",
+                    "available": false,
+                    "color-code": "46198",
+                    "id": "124877323"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-043634",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "43634",
+                    "id": "114825884"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CA7S-035871",
+                    "in-store": false,
+                    "style-number": "LW9CA7S",
+                    "available": false,
+                    "color-code": "35871",
+                    "id": "109925040"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-045657",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "45657",
+                    "id": "122800307"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-026950",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "26950",
+                    "id": "122800240"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DE1S-047119",
+                    "in-store": false,
+                    "style-number": "LW9DE1S",
+                    "available": false,
+                    "color-code": "47119",
+                    "id": "122750471"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CO8S-042293",
+                    "in-store": false,
+                    "style-number": "LW9CO8S",
+                    "available": false,
+                    "color-code": "42293",
+                    "id": "113225252"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-036763",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "36763",
+                    "id": "122800298"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CYYS-045609",
+                    "in-store": false,
+                    "style-number": "LW9CYYS",
+                    "available": false,
+                    "color-code": "45609",
+                    "id": "122800073"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9DG8S-045710",
+                    "in-store": false,
+                    "style-number": "LW9DG8S",
+                    "available": false,
+                    "color-code": "45710",
+                    "id": "122750476"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CYXS-046178",
+                    "in-store": false,
+                    "style-number": "LW9CYXS",
+                    "available": false,
+                    "color-code": "46178",
+                    "id": "122800048"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-045773",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "45773",
+                    "id": "122800269"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-0001",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": true,
+                    "color-code": "0001",
+                    "id": "107375795"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-044629",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "44629",
+                    "id": "115650054"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-036756",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "36756",
+                    "id": "115626019"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-033928",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": true,
+                    "color-code": "33928",
+                    "id": "114825880"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-044261",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "44261",
+                    "id": "115625079"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CRBS-044165",
+                    "in-store": false,
+                    "style-number": "LW9CRBS",
+                    "available": false,
+                    "color-code": "44165",
+                    "id": "114575088"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-043608",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "43608",
+                    "id": "114825835"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-035679",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "35679",
+                    "id": "110650092"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CKKS-034181",
+                    "in-store": false,
+                    "style-number": "LW9CKKS",
+                    "available": false,
+                    "color-code": "34181",
+                    "id": "110650036"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9AZLS-029112",
+                    "in-store": false,
+                    "style-number": "LW9AZLS",
+                    "available": false,
+                    "color-code": "29112",
+                    "id": "104451164"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-041034",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "41034",
+                    "id": "110650093"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BZQS-038374",
+                    "in-store": false,
+                    "style-number": "LW9BZQS",
+                    "available": false,
+                    "color-code": "38374",
+                    "id": "107376998"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BV7S-040806",
+                    "in-store": false,
+                    "style-number": "LW9BV7S",
+                    "available": false,
+                    "color-code": "40806",
+                    "id": "105300005"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BV7S-0293",
+                    "in-store": false,
+                    "style-number": "LW9BV7S",
+                    "available": false,
+                    "color-code": "0293",
+                    "id": "105300002"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BXTS-8650",
+                    "in-store": false,
+                    "style-number": "LW9BXTS",
+                    "available": false,
+                    "color-code": "8650",
+                    "id": "100800008"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BEYS-034452",
+                    "in-store": false,
+                    "style-number": "LW9BEYS",
+                    "available": false,
+                    "color-code": "34452",
+                    "id": "100800007"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BEYS-035691",
+                    "in-store": false,
+                    "style-number": "LW9BEYS",
+                    "available": false,
+                    "color-code": "35691",
+                    "id": "3820618"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9AZLS-033037",
+                    "in-store": false,
+                    "style-number": "LW9AZLS",
+                    "available": false,
+                    "color-code": "33037",
+                    "id": "3797378"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-038292",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "38292",
+                    "id": "107377080"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BEYS-033217",
+                    "in-store": false,
+                    "style-number": "LW9BEYS",
+                    "available": false,
+                    "color-code": "33217",
+                    "id": "3797422"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BC4S-031882",
+                    "in-store": false,
+                    "style-number": "LW9BC4S",
+                    "available": false,
+                    "color-code": "31882",
+                    "id": "3788550"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9BC4S-028603",
+                    "in-store": false,
+                    "style-number": "LW9BC4S",
+                    "available": false,
+                    "color-code": "28603",
+                    "id": "3788548"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9AZLS-032576",
+                    "in-store": false,
+                    "style-number": "LW9AZLS",
+                    "available": false,
+                    "color-code": "32576",
+                    "id": "3788498"
+                },
+                {
+                    "productId": "prod8900747",
+                    "inseam": null,
+                    "price-details": {
+                        "currency-code": "USD",
+                        "on-sale": false,
+                        "sale-price": null,
+                        "list-price": "38.00",
+                        "currency-symbol": "$"
+                    },
+                    "size": "ONE SIZE",
+                    "style-id": "LW9CEYS-028948",
+                    "in-store": false,
+                    "style-number": "LW9CEYS",
+                    "available": false,
+                    "color-code": "28948",
+                    "id": "124877365"
+                }
+            ],
+            "styles": [
+                {
+                    "fabric-id": [
+                        "LW9DOFS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9DOFS-048176"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9DOFS_features"
+                    ],
+                    "id": "LW9DOFS"
+                },
+                {
+                    "fabric-id": [
+                        "LW9CM7S_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CM7S-0001"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9CM7S_features"
+                    ],
+                    "id": "LW9CM7S"
+                },
+                {
+                    "fabric-id": [
+                        "LW9DOBS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9DOBS-048905"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9DOBS_features"
+                    ],
+                    "id": "LW9DOBS"
+                },
+                {
+                    "fabric-id": [
+                        "LW9CEYS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CEYS-022159"
+                        },
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CEYS-0001"
+                        },
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CEYS-037126"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9CEYS_features"
+                    ],
+                    "id": "LW9CEYS"
+                },
+                {
+                    "fabric-id": [
+                        "LW9DOCS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9DOCS-048202"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9DOCS_features"
+                    ],
+                    "id": "LW9DOCS"
+                },
+                {
+                    "fabric-id": [
+                        "LW9CKKS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CKKS-031382"
+                        },
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9CKKS-033928"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9CKKS_features"
+                    ],
+                    "id": "LW9CKKS"
+                },
+                {
+                    "fabric-id": [
+                        "LW9DQRS_fabric"
+                    ],
+                    "style-colors": [
+                        {
+                            "model-description": null,
+                            "care-id": [
+                                "Spot-clean",
+                                "Do-not-wash",
+                                "Do-not-bleach",
+                                "Do-not-tumble-dry",
+                                "Do-not-iron",
+                                "Do-not-dry-clean",
+                                "Imported"
+                            ],
+                            "id": "LW9DQRS-049633"
+                        }
+                    ],
+                    "product-feature-id": [
+                        "LW9DQRS_features"
+                    ],
+                    "id": "LW9DQRS"
+                }
+            ],
+            "loyalty-product": false,
+            "product-recommendations": [
+                {
+                    "product-silver": "0",
+                    "image-scheme": "Old",
+                    "f5-bckimg-url": "",
+                    "product-applicable-systems": "All",
+                    "sku-style-number": [
+                        "LU9ALTS-0001",
+                        "LU9ALTS-049798"
+                    ],
+                    "default-parent-category": "category:cat2530003",
+                    "product-whats-new": "1",
+                    "title": "Everyday Backpack 2.0 *23L | Women's Bags",
+                    "has-linked-products": "false",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LU9ALTS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9ALTS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LU9ALTS_049798_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9ALTS_049798_2"
+                    ],
+                    "unified-id": "Everyday-Backpack",
+                    "default-sku": "us_132157630",
+                    "display-name-with-br": "",
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "049798",
+                            "color-group": null,
+                            "sku": "us_132157635",
+                            "color-name": "Gold Spice/Black",
+                            "sku-style-order-id": "9998",
+                            "style-id-01": "LU9ALTS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9ALTS-049798",
+                            "color-id": "49798"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-group": "black",
+                            "sku": "us_132157630",
+                            "color-name": "Black",
+                            "sku-style-order-id": "9999",
+                            "style-id-01": "LU9ALTS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9ALTS-0001",
+                            "color-id": "0001"
+                        }
+                    ],
+                    "linked-products": [
+                        ""
+                    ],
+                    "parent-category-unified-id": "whats-new",
+                    "all-available-sizes": [
+                        "ONE SIZE"
+                    ],
+                    "bazaar-voice-id": "Everyday_Backpack",
+                    "product-category-hierarchy": "^Accessories^^usaccessories|^Bags^^cat1350014",
+                    "repository-id": "prod10520025",
+                    "pdp-url": "/p/bags/Everyday-Backpack/_/prod10520025",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        }
+                    ],
+                    "list-price": [
+                        "98.000000"
+                    ],
+                    "product-on-sale": "0",
+                    "parent-category-display-name": "What's New",
+                    "currency-code": "USD",
+                    "display-name": "Everyday Backpack 2.0 *23L"
+                },
+                {
+                    "product-silver": "0",
+                    "image-scheme": "Old",
+                    "f5-bckimg-url": "",
+                    "product-applicable-systems": "All",
+                    "sku-style-number": [
+                        "LU9AFAS-0001",
+                        "LU9AFAS-031382",
+                        "LU9AFAS-047759",
+                        "LU9AFAS-047809",
+                        "LU9AO7S-048176"
+                    ],
+                    "default-parent-category": "category:cat1350014",
+                    "product-whats-new": "1",
+                    "title": "New Crew Backpack *22L | Women's Bags",
+                    "has-linked-products": "false",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_0001_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_0001_2",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_031382_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_031382_2",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_047759_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_047759_2",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_047809_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AFAS_047809_2",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AO7S_048176_1",
+                        "https://images.lululemon.com/is/image/lululemon/LU9AO7S_048176_2"
+                    ],
+                    "unified-id": "New-Crew-Backpack",
+                    "default-sku": "us_107382811",
+                    "display-name-with-br": "",
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047759",
+                            "color-group": "green",
+                            "sku": "us_127775223",
+                            "color-name": "Smoked Spruce",
+                            "sku-style-order-id": "9995",
+                            "style-id-01": "LU9AFAS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9AFAS-047759",
+                            "color-id": "47759"
+                        },
+                        {
+                            "style-id-02": "048176",
+                            "color-group": "Printed^Neon",
+                            "sku": "us_127825287",
+                            "color-name": "Heritage 365 Camo Guava Pink Multi/Heritage 365 Camo Cafe Au Lait Multi/Heritage 365 Camo Hawaiian Blue Multi",
+                            "sku-style-order-id": "9996",
+                            "style-id-01": "LU9AO7S",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9AO7S-048176",
+                            "color-id": "48176"
+                        },
+                        {
+                            "style-id-02": "047809",
+                            "color-group": "red",
+                            "sku": "us_127825420",
+                            "color-name": "Red Merlot",
+                            "sku-style-order-id": "9997",
+                            "style-id-01": "LU9AFAS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9AFAS-047809",
+                            "color-id": "47809"
+                        },
+                        {
+                            "style-id-02": "031382",
+                            "color-group": "navy^blue",
+                            "sku": "us_115650116",
+                            "color-name": "True Navy",
+                            "sku-style-order-id": "9998",
+                            "style-id-01": "LU9AFAS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9AFAS-031382",
+                            "color-id": "31382"
+                        },
+                        {
+                            "style-id-02": "0001",
+                            "color-group": "black",
+                            "sku": "us_107382807",
+                            "color-name": "Black",
+                            "sku-style-order-id": "9999",
+                            "style-id-01": "LU9AFAS",
+                            "size": "ONE SIZE",
+                            "style-id": "LU9AFAS-0001",
+                            "color-id": "0001"
+                        }
+                    ],
+                    "linked-products": [
+                        ""
+                    ],
+                    "parent-category-unified-id": "bags",
+                    "all-available-sizes": [
+                        "ONE SIZE"
+                    ],
+                    "bazaar-voice-id": "New_Crew_Backpack",
+                    "product-category-hierarchy": "^Accessories^^usaccessories|^Bags^^cat1350014",
+                    "repository-id": "prod9370190",
+                    "pdp-url": "/p/bags/New-Crew-Backpack/_/prod9370190",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/46171?$swatch$",
+                            "name": "Neon"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                            "name": "Printed"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$",
+                            "name": "blue"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                            "name": "green"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/32664?$swatch$",
+                            "name": "navy"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/red_swatch?$swatch$",
+                            "name": "red"
+                        }
+                    ],
+                    "list-price": [
+                        "98.000000"
+                    ],
+                    "product-on-sale": "0",
+                    "parent-category-display-name": "Bags",
+                    "currency-code": "USD",
+                    "display-name": "New Crew Backpack 22L *Online Only"
+                },
+                {
+                    "product-silver": "0",
+                    "image-scheme": "Old",
+                    "f5-bckimg-url": "",
+                    "product-applicable-systems": "All",
+                    "sku-style-number": [
+                        "LW9DHQS-047750"
+                    ],
+                    "default-parent-category": "category:cat1350014",
+                    "product-whats-new": "1",
+                    "title": "Take it On Belt Bag | Women's Bags",
+                    "has-linked-products": "false",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DHQS_047750_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DHQS_047750_2"
+                    ],
+                    "unified-id": "Take-it-On-Belt-Bag",
+                    "default-sku": "us_127451685",
+                    "display-name-with-br": "",
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "047750",
+                            "color-group": "Neon",
+                            "sku": "us_127451691",
+                            "color-name": "Guava Pink",
+                            "sku-style-order-id": "9999",
+                            "style-id-01": "LW9DHQS",
+                            "size": "ONE SIZE",
+                            "style-id": "LW9DHQS-047750",
+                            "color-id": "47750"
+                        }
+                    ],
+                    "linked-products": [
+                        ""
+                    ],
+                    "parent-category-unified-id": "bags",
+                    "all-available-sizes": [
+                        "ONE SIZE"
+                    ],
+                    "bazaar-voice-id": "Take_it_On_Belt_Bag",
+                    "product-category-hierarchy": "^Accessories^^usaccessories|^Bags^^cat1350014",
+                    "repository-id": "prod10370189",
+                    "pdp-url": "/p/bags/Take-it-On-Belt-Bag/_/prod10370189",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/46171?$swatch$",
+                            "name": "Neon"
+                        }
+                    ],
+                    "list-price": [
+                        "38.000000"
+                    ],
+                    "product-on-sale": "0",
+                    "parent-category-display-name": "Bags",
+                    "currency-code": "USD",
+                    "display-name": "Take It On Belt Bag *1L"
+                },
+                {
+                    "product-silver": "0",
+                    "image-scheme": "Old",
+                    "f5-bckimg-url": "",
+                    "product-applicable-systems": "All",
+                    "sku-style-number": [
+                        "LW9DDYS-3385",
+                        "LW9DM6S-048202",
+                        "LW9DNKS-048176"
+                    ],
+                    "default-parent-category": "category:cat1350014",
+                    "product-whats-new": "1",
+                    "title": "City Adventurer Backpack *Nano | Women's Bags",
+                    "has-linked-products": "false",
+                    "sku-sku-images": [
+                        "https://images.lululemon.com/is/image/lululemon/LW9DDYS_3385_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DDYS_3385_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DM6S_048202_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DM6S_048202_2",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DNKS_048176_1",
+                        "https://images.lululemon.com/is/image/lululemon/LW9DNKS_048176_2"
+                    ],
+                    "unified-id": "City-Adventurer-Backpack-Nano",
+                    "default-sku": "us_122750516",
+                    "display-name-with-br": "",
+                    "sku-style-order": [
+                        {
+                            "style-id-02": "048202",
+                            "color-group": "green^olive",
+                            "sku": "us_127500164",
+                            "color-name": "Green Fern/Smoked Spruce/Neo Mint",
+                            "sku-style-order-id": "9997",
+                            "style-id-01": "LW9DM6S",
+                            "size": "ONE SIZE",
+                            "style-id": "LW9DM6S-048202",
+                            "color-id": "48202"
+                        },
+                        {
+                            "style-id-02": "048176",
+                            "color-group": "Printed^Neon",
+                            "sku": "us_127575120",
+                            "color-name": "Heritage 365 Camo Guava Pink Multi/Heritage 365 Camo Cafe Au Lait Multi/Heritage 365 Camo Hawaiian Blue Multi",
+                            "sku-style-order-id": "9998",
+                            "style-id-01": "LW9DNKS",
+                            "size": "ONE SIZE",
+                            "style-id": "LW9DNKS-048176",
+                            "color-id": "48176"
+                        },
+                        {
+                            "style-id-02": "3385",
+                            "color-group": "black",
+                            "sku": "us_122750516",
+                            "color-name": "black/gold",
+                            "sku-style-order-id": "9999",
+                            "style-id-01": "LW9DDYS",
+                            "size": "ONE SIZE",
+                            "style-id": "LW9DDYS-3385",
+                            "color-id": "3385"
+                        }
+                    ],
+                    "linked-products": [
+                        ""
+                    ],
+                    "parent-category-unified-id": "bags",
+                    "all-available-sizes": [
+                        "ONE SIZE"
+                    ],
+                    "bazaar-voice-id": "City_Adventurer_Backpack_Nano",
+                    "product-category-hierarchy": "^Accessories^^usaccessories|^Bags^^cat1350014",
+                    "repository-id": "prod9960648",
+                    "pdp-url": "/p/bags/City-Adventurer-Backpack-Nano/_/prod9960648",
+                    "color-group": [
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/46171?$swatch$",
+                            "name": "Neon"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                            "name": "Printed"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                            "name": "black"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                            "name": "green"
+                        },
+                        {
+                            "url": "https://images.lululemon.com/is/image/lululemon/26083?$swatch$",
+                            "name": "olive"
+                        }
+                    ],
+                    "list-price": [
+                        "34.000000"
+                    ],
+                    "product-on-sale": "0",
+                    "parent-category-display-name": "Bags",
+                    "currency-code": "USD",
+                    "display-name": "City Adventurer Backpack *Nano"
+                }
+            ],
+            "product-summary": {
+                "product-default-sort": "1418.640000",
+                "parent-category-keywords": "yoga  clothes yoga  clothes  for  women yoga  pants yoga  pants  for  women hot  yoga hot  yoga  wear hot  yoga  tops athletic  wear clothing wear pants top shirts jackets hoodies shorts skirt socks women&#39;s  gym  bag yoga  bag backpack yoga  mat  bag yoga  tote  bag yoga  mat  carrier yoga  mat  holder purse",
+                "price-range": "['$20-$40', '$25-$50', '$30-$40', '$30-$45', 'Under $50']",
+                "product-disallow-as-recommendation": "0",
+                "common-id": "pprod8900747na__en__us__site",
+                "product-silver": "0",
+                "image-scheme": "Old",
+                "product-id": "prod8900747",
+                "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW9BC4S_028603",
+                "product-catalog-id": [
+                    "catalog10001"
+                ],
+                "is-displayable": "1",
+                "product-name": "Everywhere Belt Bag *1L",
+                "product-mark-down": "0",
+                "is-sold-out": false,
+                "is-final-sale": false,
+                "free-return-shipping": "true",
+                "product-applicable-systems": "All",
+                "sku-style-number": [
+                    "LW9CEYS-0001",
+                    "LW9CEYS-022159",
+                    "LW9CEYS-037126",
+                    "LW9CKKS-031382",
+                    "LW9CKKS-033928",
+                    "LW9CM7S-0001",
+                    "LW9DOBS-048905",
+                    "LW9DOCS-048202",
+                    "LW9DOFS-048176",
+                    "LW9DQRS-049633"
+                ],
+                "display": "1",
+                "product-language": "English",
+                "product-last-sku-addition-date-time": "1616023060193",
+                "product-activity-id-repository-id": [
+                    "w_casual",
+                    "w_hiking",
+                    "w_tofrom",
+                    "w_travel"
+                ],
+                "product-number-of-image-assets": "0",
+                "default-parent-category": "category:cat1350014",
+                "product-sizes": [
+                    "ONE SIZE"
+                ],
+                "sku-on-sale": "0",
+                "is-new": true,
+                "display-ca": "1",
+                "product-whats-new": "1",
+                "product-site-map-pdp-url": "//shop.lululemon.com/p/bags/Everywhere-Belt-Bag/_/prod8900747",
+                "product-no-follow": "0",
+                "title": "Everywhere Belt Bag *1L | Women's Bags",
+                "all-ancestors-repository-id": [
+                    "cat1350014",
+                    "cat1610014",
+                    "cat1670003",
+                    "cat2530002",
+                    "usaccessories",
+                    "usrootCategory",
+                    "uswomen"
+                ],
+                "product-site-id": [
+                    "na_en_us_site"
+                ],
+                "has-linked-products": "false",
+                "product-base-url": "atgrep:/ProductCatalog/product/prod8900747",
+                "locale": [
+                    "en_US"
+                ],
+                "sku-sku-images": [
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_0001_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_022159_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CEYS_037126_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CKKS_031382_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CKKS_033928_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CM7S_0001_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9CM7S_0001_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOBS_048905_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOCS_048202_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DOFS_048176_2",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_1",
+                    "https://images.lululemon.com/is/image/lululemon/LW9DQRS_049633_2"
+                ],
+                "unified-id": "Everywhere-Belt-Bag",
+                "default-sku": "us_124877365",
+                "display-name-with-br": "",
+                "sku-style-order": [
+                    {
+                        "sku": "us_127600065",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_127600076",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_113025036",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_128025048",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_127429223",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_127600086",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_127600055",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_114825880",
+                        "size": "ONE SIZE"
+                    },
+                    {
+                        "sku": "us_113025061",
+                        "size": "ONE SIZE"
+                    }
+                ],
+                "linked-products": [
+                    ""
+                ],
+                "parent-category-unified-id": "bags",
+                "all-available-sizes": [
+                    "ONE SIZE"
+                ],
+                "bazaar-voice-id": "Everywhere_Belt_Bag_1L",
+                "product-category-hierarchy": "^Accessories^^usaccessories|^Bags^^cat1350014",
+                "all-ancestors-display-name": [
+                    "Accessories",
+                    "Bags",
+                    "Bestsellers",
+                    "Biker Shorts Outfits",
+                    "Commerce Root",
+                    "Gift Ideas",
+                    "women"
+                ],
+                "repository-id": "prod8900747",
+                "product-non-returnable": "0",
+                "product-no-index": "0",
+                "pdp-url": "/p/bags/Everywhere-Belt-Bag/_/prod8900747",
+                "color-group": [
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/tan_swatch?$swatch$",
+                        "name": "Khaki"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/46171?$swatch$",
+                        "name": "Neon"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$",
+                        "name": "Printed"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$",
+                        "name": "black"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$",
+                        "name": "blue"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/brown_swatch?$swatch$",
+                        "name": "brown"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$",
+                        "name": "green"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$",
+                        "name": "grey"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/32664?$swatch$",
+                        "name": "navy"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/26083?$swatch$",
+                        "name": "olive"
+                    },
+                    {
+                        "url": "https://images.lululemon.com/is/image/lululemon/yellow_swatch?$swatch$",
+                        "name": "yellow"
+                    }
+                ],
+                "type": "products",
+                "list-price": [
+                    "38.000000"
+                ],
+                "product-category": [
+                    "Bags",
+                    "Bestsellers",
+                    "Biker Shorts Outfits",
+                    "Gift Ideas",
+                    "women"
+                ],
+                "activity": [
+                    "casual",
+                    "hiking",
+                    "On the Move",
+                    "travel"
+                ],
+                "why-we-made-this": "This functional belt bag can hold your phone, wallet, and keys during all your urban outings.",
+                "price": "38.000000",
+                "isProductLocaleMatch": true,
+                "product-on-sale": "0",
+                "parent-category-display-name": "Bags",
+                "item-type": [
+                    "activities",
+                    "Catalog",
+                    "Category",
+                    "genders",
+                    "Product",
+                    "SKU"
+                ],
+                "colour": "['black|https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$', 'blue|https://images.lululemon.com/is/image/lululemon/blue_swatch?$swatch$', 'brown|https://images.lululemon.com/is/image/lululemon/brown_swatch?$swatch$', 'green|https://images.lululemon.com/is/image/lululemon/33093?$swatch$', 'grey|https://images.lululemon.com/is/image/lululemon/grey_swatch?$swatch$', 'Khaki|https://images.lululemon.com/is/image/lululemon/tan_swatch?$swatch$', 'navy|https://images.lululemon.com/is/image/lululemon/32664?$swatch$', 'Neon|https://images.lululemon.com/is/image/lululemon/46171?$swatch$', 'olive|https://images.lululemon.com/is/image/lululemon/26083?$swatch$', 'Printed|https://images.lululemon.com/is/image/lululemon/43899?$swatch$', 'yellow|https://images.lululemon.com/is/image/lululemon/yellow_swatch?$swatch$']",
+                "product-has-outfit-product": "0",
+                "currency-code": "USD",
+                "display-name": "Everywhere Belt Bag *1L",
+                "loyalty-terms-and-conditions": null,
+                "gender": "women"
+            },
+            "whyWeMadeThis": {
+                "text": "Phone, keys, wallet. Keep them close in this versatile belt bag that helps you get out the door and on to your next adventure.",
+                "image": ""
+            },
+            "designedFor": {
+                "iconId": "icon_everyday",
+                "activityText": "On the Move"
+            },
+            "alsoAvailableIn": []
+        }
+    }
+}
